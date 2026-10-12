@@ -29,12 +29,22 @@ Me chamo Walace Oliveira Cardoso, sou estudante de Ciência da Computação na U
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Projetos</h3>
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=WALACEEE&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=WALACEEE&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
-</p>
+**LPG&M — Global AI Legal Office** · TypeScript, Next.js, Supabase, Tailwind
+Plataforma jurídica internacional: triagem assistida por IA, encaminhamento de casos conforme jurisdição e habilitação, e áreas separadas para cliente, advogado e administração. Monorepo com Turborepo, bilíngue (pt-BR / en-US). Atuo no front-end. *Código fechado.*
+
+**LUMEN** · TypeScript
+Loja de perfumaria com catálogo e painel administrativo. *Código fechado.*
+
+**tiXQuadros** · Flutter
+Clone visual do aplicativo, somente front-end. *Código fechado.*
+
+**[AlgorithmVision](https://github.com/WALACEEE/AlgorithmVision)** · C++
+Ferramenta de visualização de algoritmos de ordenação e busca.
+
+**[Projeto final de POO](https://github.com/WALACEEE/projeto-final-poo)** · Java
+Sistema de gestão construído como projeto final da disciplina.
 
 <br/>
 <br/>
